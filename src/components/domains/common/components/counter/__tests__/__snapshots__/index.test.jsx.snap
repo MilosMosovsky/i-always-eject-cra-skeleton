@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`change counter on click 1`] = `
+<div>
+  <button>
+    Increment
+  </button>
+  Counter is: 
+  1
+</div>
+`;
+
+exports[`init 1`] = `
+<div>
+  <button>
+    Increment
+  </button>
+  Counter is: 
+  0
+</div>
+`;
