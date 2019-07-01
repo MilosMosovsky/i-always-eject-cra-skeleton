@@ -922,9 +922,9 @@
     pretty-format "^24.8.0"
     wait-for-expect "^1.2.0"
 
-"@testing-library/react@^8.0.1":
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-8.0.1.tgz#91c254adf855b13de50020613cb5d3915f9f7875"
+"@testing-library/react@^8.0.4":
+  version "8.0.4"
+  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-8.0.4.tgz#6ed405ba88b625ec53d7cfa78c038a950bafc1fa"
   dependencies:
     "@babel/runtime" "^7.4.5"
     "@testing-library/dom" "^5.0.0"
