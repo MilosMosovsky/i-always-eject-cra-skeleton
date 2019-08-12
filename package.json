@@ -34,7 +34,7 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react-dom": "^16.9.0",
     "react-router5": "^7.1.0",
     "router5": "^7.0.2",
     "router5-plugin-browser": "^7.0.2",
